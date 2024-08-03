@@ -1,4 +1,4 @@
-#This prject uses the following Superstore data:
+#This project uses the following Superstore data:
 
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
